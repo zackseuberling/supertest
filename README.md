@@ -1,4 +1,4 @@
-# [supertest](https://ladjs.github.io/superagent/)
+# [supertest](https://forwardemail.github.io/superagent/)
 
 [![build status](https://github.com/forwardemail/supertest/actions/workflows/ci.yml/badge.svg)](https://github.com/forwardemail/supertest/actions/workflows/ci.yml)
 [![code coverage](https://img.shields.io/codecov/c/github/ladjs/supertest.svg)](https://codecov.io/gh/ladjs/supertest)
@@ -12,7 +12,7 @@
 ## About
 
 The motivation with this module is to provide a high-level abstraction for testing
-HTTP, while still allowing you to drop down to the [lower-level API](https://ladjs.github.io/superagent/) provided by superagent.
+HTTP, while still allowing you to drop down to the [lower-level API](https://forwardemail.github.io/superagent/) provided by superagent.
 
 ## Getting Started
 
@@ -98,7 +98,7 @@ describe('GET /user', function() {
 });
 ```
 
-You can use `auth` method to pass HTTP username and password in the same way as in the [superagent](http://ladjs.github.io/superagent/#authentication):
+You can use `auth` method to pass HTTP username and password in the same way as in the [superagent](https://forwardemail.github.io/superagent/#authentication):
 
 ```js
 describe('GET /user', function() {
