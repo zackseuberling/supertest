@@ -6,7 +6,7 @@
   "contributors": [],
   "dependencies": {
     "methods": "^1.1.2",
-    "superagent": "^10.2.3",
+    "superagent": "^10.3.0",
     "cookie-signature": "^1.2.2"
   },
   "devDependencies": {
